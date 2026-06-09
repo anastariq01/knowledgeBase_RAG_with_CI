@@ -1,0 +1,9 @@
+.__pycache__/
+
+*.json
+.vscode/
+.logs/
+.tar/
+.venv/
+.env/
+.embeddings/
