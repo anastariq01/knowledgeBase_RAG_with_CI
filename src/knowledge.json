@@ -1,0 +1,802 @@
+[
+  {
+    "question": "What is your profession?",
+    "answer": "I work as an accountant and manage financial records, inventory, and customer accounts."
+  },
+  {
+    "question": "What are your main responsibilities?",
+    "answer": "I maintain accounting records, manage inventory, prepare reports, and assist customers."
+  },
+  {
+    "question": "What is accounting?",
+    "answer": "Accounting is the process of recording, classifying, and reporting financial transactions."
+  },
+  {
+    "question": "Why is accounting important?",
+    "answer": "Accounting helps businesses track income, expenses, assets, and profits."
+  },
+  {
+    "question": "What is bookkeeping?",
+    "answer": "Bookkeeping is the recording of daily financial transactions."
+  },
+  {
+    "question": "What is a ledger?",
+    "answer": "A ledger is a book or system used to record financial transactions."
+  },
+  {
+    "question": "What is a journal entry?",
+    "answer": "A journal entry records a business transaction in the accounting system."
+  },
+  {
+    "question": "What is a trial balance?",
+    "answer": "A trial balance is a report showing debit and credit balances."
+  },
+  {
+    "question": "What is a balance sheet?",
+    "answer": "A balance sheet shows assets, liabilities, and owner's equity."
+  },
+  {
+    "question": "What is an income statement?",
+    "answer": "An income statement shows revenue, expenses, and profit for a period."
+  },
+  {
+    "question": "What is cash flow?",
+    "answer": "Cash flow refers to money coming into and going out of a business."
+  },
+  {
+    "question": "What is an asset?",
+    "answer": "An asset is anything owned by a business that has value."
+  },
+  {
+    "question": "What is a liability?",
+    "answer": "A liability is a debt or obligation owed by a business."
+  },
+  {
+    "question": "What is owner's equity?",
+    "answer": "Owner's equity is the owner's share in the business after liabilities."
+  },
+  {
+    "question": "What is revenue?",
+    "answer": "Revenue is income earned from business activities."
+  },
+  {
+    "question": "What is an expense?",
+    "answer": "An expense is the cost incurred to operate a business."
+  },
+  {
+    "question": "What is profit?",
+    "answer": "Profit is the amount remaining after expenses are deducted from revenue."
+  },
+  {
+    "question": "What is a purchase invoice?",
+    "answer": "A purchase invoice records goods or services bought by the business."
+  },
+  {
+    "question": "What is a sales invoice?",
+    "answer": "A sales invoice records goods or services sold to customers."
+  },
+  {
+    "question": "What is accounts payable?",
+    "answer": "Accounts payable represents money owed to suppliers."
+  },
+  {
+    "question": "What is accounts receivable?",
+    "answer": "Accounts receivable represents money owed by customers."
+  },
+  {
+    "question": "Why are financial records important?",
+    "answer": "Financial records help monitor business performance and compliance."
+  },
+  {
+    "question": "What accounting software do you use?",
+    "answer": "I use accounting software to record transactions and generate reports."
+  },
+  {
+    "question": "How do you organize accounting records?",
+    "answer": "I maintain accurate records and store documents systematically."
+  },
+  {
+    "question": "What is inventory management?",
+    "answer": "Inventory management is the process of tracking and controlling stock."
+  },
+  {
+    "question": "Why is inventory important?",
+    "answer": "Inventory is important because it supports sales and operations."
+  },
+  {
+    "question": "How do you track inventory?",
+    "answer": "I use inventory records, software, and stock counts."
+  },
+  {
+    "question": "What is stock control?",
+    "answer": "Stock control ensures the right quantity of products is available."
+  },
+  {
+    "question": "What is stock valuation?",
+    "answer": "Stock valuation determines the financial value of inventory."
+  },
+  {
+    "question": "How often should inventory be counted?",
+    "answer": "Inventory should be counted regularly to ensure accuracy."
+  },
+  {
+    "question": "What causes inventory shortages?",
+    "answer": "Inventory shortages may result from theft, errors, or poor planning."
+  },
+  {
+    "question": "What is overstocking?",
+    "answer": "Overstocking occurs when inventory exceeds business needs."
+  },
+  {
+    "question": "What is understocking?",
+    "answer": "Understocking occurs when inventory is insufficient to meet demand."
+  },
+  {
+    "question": "Why is inventory accuracy important?",
+    "answer": "Accurate inventory prevents losses and improves customer service."
+  },
+  {
+    "question": "How do you manage suppliers?",
+    "answer": "I communicate regularly and monitor supplier performance."
+  },
+  {
+    "question": "What is a purchase order?",
+    "answer": "A purchase order is a document requesting goods from a supplier."
+  },
+  {
+    "question": "What is a goods receipt note?",
+    "answer": "A goods receipt note confirms inventory received from suppliers."
+  },
+  {
+    "question": "How do you handle damaged inventory?",
+    "answer": "I record the damage and follow company procedures."
+  },
+  {
+    "question": "Why is inventory planning important?",
+    "answer": "Inventory planning helps avoid shortages and excess stock."
+  },
+  {
+    "question": "What is customer service?",
+    "answer": "Customer service involves assisting customers before and after sales."
+  },
+  {
+    "question": "Why is customer service important?",
+    "answer": "Good customer service improves customer satisfaction and loyalty."
+  },
+  {
+    "question": "How do you greet customers?",
+    "answer": "I greet customers politely and offer assistance."
+  },
+  {
+    "question": "How do you handle complaints?",
+    "answer": "I listen carefully and work toward a fair solution."
+  },
+  {
+    "question": "How do you respond to customer inquiries?",
+    "answer": "I provide accurate information and respond professionally."
+  },
+  {
+    "question": "Why is communication important?",
+    "answer": "Good communication reduces misunderstandings and builds trust."
+  },
+  {
+    "question": "How do you build customer trust?",
+    "answer": "I provide honest information and reliable service."
+  },
+  {
+    "question": "What makes a satisfied customer?",
+    "answer": "A satisfied customer receives quality service and support."
+  },
+  {
+    "question": "How do you handle difficult customers?",
+    "answer": "I remain calm, respectful, and focused on resolving the issue."
+  },
+  {
+    "question": "Why is professionalism important?",
+    "answer": "Professionalism creates a positive image and improves relationships."
+  },
+  {
+    "question": "How do you manage daily accounting tasks?",
+    "answer": "I prioritize tasks, maintain records, and review transactions regularly."
+  },
+  {
+    "question": "What is a bank reconciliation?",
+    "answer": "Bank reconciliation compares company records with bank statements."
+  },
+  {
+    "question": "Why is bank reconciliation important?",
+    "answer": "It helps identify errors and ensures accurate financial records."
+  },
+  {
+    "question": "What is depreciation?",
+    "answer": "Depreciation is the gradual reduction in value of a fixed asset."
+  },
+  {
+    "question": "What is an audit?",
+    "answer": "An audit is an examination of financial records for accuracy and compliance."
+  },
+  {
+    "question": "What is a fixed asset?",
+    "answer": "A fixed asset is a long-term asset used in business operations."
+  },
+  {
+    "question": "What is working capital?",
+    "answer": "Working capital is the difference between current assets and current liabilities."
+  },
+  {
+    "question": "What is a budget?",
+    "answer": "A budget is a financial plan for future income and expenses."
+  },
+  {
+    "question": "Why is budgeting important?",
+    "answer": "Budgeting helps control spending and achieve financial goals."
+  },
+  {
+    "question": "What is petty cash?",
+    "answer": "Petty cash is a small amount of money kept for minor expenses."
+  },
+  {
+    "question": "How do you record cash transactions?",
+    "answer": "I record them promptly with supporting documentation."
+  },
+  {
+    "question": "What is inventory turnover?",
+    "answer": "Inventory turnover measures how quickly stock is sold and replaced."
+  },
+  {
+    "question": "Why is inventory turnover important?",
+    "answer": "It helps evaluate inventory efficiency and sales performance."
+  },
+  {
+    "question": "What is reorder level?",
+    "answer": "Reorder level is the stock quantity at which new inventory should be ordered."
+  },
+  {
+    "question": "How do you prevent stock shortages?",
+    "answer": "I monitor inventory levels and reorder products on time."
+  },
+  {
+    "question": "What is a stock adjustment?",
+    "answer": "A stock adjustment corrects inventory discrepancies."
+  },
+  {
+    "question": "Why are inventory records important?",
+    "answer": "They help track stock movement and inventory value."
+  },
+  {
+    "question": "How do you manage slow-moving inventory?",
+    "answer": "I monitor demand and take action to reduce excess stock."
+  },
+  {
+    "question": "What is stock transfer?",
+    "answer": "Stock transfer is moving inventory from one location to another."
+  },
+  {
+    "question": "What is inventory shrinkage?",
+    "answer": "Inventory shrinkage is the loss of stock due to theft, damage, or errors."
+  },
+  {
+    "question": "How do you improve inventory accuracy?",
+    "answer": "I conduct regular stock counts and maintain accurate records."
+  },
+  {
+    "question": "How do you welcome customers?",
+    "answer": "I greet customers politely and offer assistance."
+  },
+  {
+    "question": "How do you handle customer feedback?",
+    "answer": "I listen carefully and use feedback to improve service."
+  },
+  {
+    "question": "What is customer satisfaction?",
+    "answer": "Customer satisfaction measures how well services meet expectations."
+  },
+  {
+    "question": "How do you improve customer satisfaction?",
+    "answer": "I provide timely, professional, and helpful service."
+  },
+  {
+    "question": "What is customer loyalty?",
+    "answer": "Customer loyalty is when customers repeatedly choose the business."
+  },
+  {
+    "question": "Why is customer retention important?",
+    "answer": "Retaining customers is often more cost-effective than acquiring new ones."
+  },
+  {
+    "question": "How do you resolve customer issues?",
+    "answer": "I investigate the problem and provide a suitable solution."
+  },
+  {
+    "question": "What is active listening?",
+    "answer": "Active listening means paying full attention to customer concerns."
+  },
+  {
+    "question": "Why is patience important in customer service?",
+    "answer": "Patience helps create positive interactions and resolve issues effectively."
+  },
+  {
+    "question": "How do you communicate professionally?",
+    "answer": "I use clear, respectful, and professional language."
+  },
+  {
+    "question": "What is financial reporting?",
+    "answer": "Financial reporting involves preparing reports on business performance."
+  },
+  {
+    "question": "Why are financial reports important?",
+    "answer": "They help management make informed business decisions."
+  },
+  {
+    "question": "What is cost control?",
+    "answer": "Cost control is managing expenses to improve profitability."
+  },
+  {
+    "question": "How do you monitor expenses?",
+    "answer": "I review records and compare expenses against budgets."
+  },
+  {
+    "question": "What is gross profit?",
+    "answer": "Gross profit is revenue minus the cost of goods sold."
+  },
+  {
+    "question": "What is net profit?",
+    "answer": "Net profit is the amount remaining after all expenses are deducted."
+  },
+  {
+    "question": "Why is profit important?",
+    "answer": "Profit supports business growth and sustainability."
+  },
+  {
+    "question": "What is a financial year?",
+    "answer": "A financial year is the accounting period used for reporting."
+  },
+  {
+    "question": "How do you maintain confidentiality?",
+    "answer": "I protect financial information and share it only with authorized personnel."
+  },
+  {
+    "question": "What is internal control?",
+    "answer": "Internal control consists of procedures that safeguard assets and records."
+  },
+  {
+    "question": "Why are internal controls important?",
+    "answer": "They reduce errors, fraud, and financial risks."
+  },
+  {
+    "question": "How do you verify transactions?",
+    "answer": "I review supporting documents and confirm accuracy."
+  },
+  {
+    "question": "What is an expense report?",
+    "answer": "An expense report summarizes business expenses for a period."
+  },
+  {
+    "question": "What is invoice verification?",
+    "answer": "Invoice verification confirms that invoices are accurate and valid."
+  },
+  {
+    "question": "Why is record keeping important?",
+    "answer": "Good records support decision-making and compliance."
+  },
+  {
+    "question": "How do you prioritize work?",
+    "answer": "I focus on deadlines, importance, and business needs."
+  },
+  {
+    "question": "What qualities make a good accountant?",
+    "answer": "Accuracy, integrity, organization, and analytical skills."
+  },
+  {
+    "question": "What is teamwork in accounting?",
+    "answer": "Teamwork involves cooperating with colleagues to achieve business goals."
+  },
+  {
+    "question": "Why is attention to detail important?",
+    "answer": "Small mistakes can have significant financial consequences."
+  },
+  {
+    "question": "What is your goal as an accountant?",
+    "answer": "My goal is to maintain accurate records and support business success."
+  },
+  {
+    "question": "What is taxation?",
+    "answer": "Taxation is the process of collecting taxes imposed by the government."
+  },
+  {
+    "question": "Why are taxes important?",
+    "answer": "Taxes fund public services and government operations."
+  },
+  {
+    "question": "What is a tax invoice?",
+    "answer": "A tax invoice is a document showing taxable sales and tax amounts."
+  },
+  {
+    "question": "How do you prepare tax records?",
+    "answer": "I maintain accurate transaction records and supporting documents."
+  },
+  {
+    "question": "What is VAT?",
+    "answer": "VAT is a value-added tax charged on goods and services."
+  },
+  {
+    "question": "What is payroll?",
+    "answer": "Payroll is the process of calculating and paying employee salaries."
+  },
+  {
+    "question": "Why is payroll accuracy important?",
+    "answer": "It ensures employees are paid correctly and on time."
+  },
+  {
+    "question": "What is a salary register?",
+    "answer": "A salary register records employee compensation details."
+  },
+  {
+    "question": "How do you calculate overtime?",
+    "answer": "I apply company policies and labor regulations."
+  },
+  {
+    "question": "What is financial planning?",
+    "answer": "Financial planning helps manage resources and achieve goals."
+  },
+  {
+    "question": "How do you forecast expenses?",
+    "answer": "I analyze historical data and future requirements."
+  },
+  {
+    "question": "What is cash management?",
+    "answer": "Cash management involves monitoring and controlling cash flow."
+  },
+  {
+    "question": "Why is cash management important?",
+    "answer": "It ensures sufficient funds are available for operations."
+  },
+  {
+    "question": "What is a purchase return?",
+    "answer": "A purchase return occurs when goods are returned to a supplier."
+  },
+  {
+    "question": "What is a sales return?",
+    "answer": "A sales return occurs when a customer returns purchased goods."
+  },
+  {
+    "question": "How do you manage supplier payments?",
+    "answer": "I track due dates and process payments accurately."
+  },
+  {
+    "question": "What is credit control?",
+    "answer": "Credit control manages customer credit and collections."
+  },
+  {
+    "question": "Why is credit control important?",
+    "answer": "It helps reduce bad debts and improve cash flow."
+  },
+  {
+    "question": "How do you follow up on overdue payments?",
+    "answer": "I contact customers professionally and request payment."
+  },
+  {
+    "question": "What is bad debt?",
+    "answer": "Bad debt is money owed that is unlikely to be collected."
+  },
+  {
+    "question": "What is stock receiving?",
+    "answer": "Stock receiving is the process of accepting delivered inventory."
+  },
+  {
+    "question": "How do you inspect incoming inventory?",
+    "answer": "I check quantity, quality, and documentation."
+  },
+  {
+    "question": "What is warehouse management?",
+    "answer": "Warehouse management organizes inventory storage and movement."
+  },
+  {
+    "question": "Why is warehouse organization important?",
+    "answer": "It improves efficiency and reduces errors."
+  },
+  {
+    "question": "What is stock issuing?",
+    "answer": "Stock issuing is releasing inventory for sale or use."
+  },
+  {
+    "question": "How do you monitor stock movement?",
+    "answer": "I record all inventory transactions accurately."
+  },
+  {
+    "question": "What is stock aging?",
+    "answer": "Stock aging measures how long inventory remains unsold."
+  },
+  {
+    "question": "Why is stock aging important?",
+    "answer": "It helps identify obsolete or slow-moving inventory."
+  },
+  {
+    "question": "How do you reduce inventory waste?",
+    "answer": "I monitor stock levels and rotate inventory properly."
+  },
+  {
+    "question": "What is customer relationship management?",
+    "answer": "It is the process of managing customer interactions and relationships."
+  },
+  {
+    "question": "Why is customer relationship management important?",
+    "answer": "It improves customer loyalty and business growth."
+  },
+  {
+    "question": "How do you handle service requests?",
+    "answer": "I respond promptly and provide accurate assistance."
+  },
+  {
+    "question": "What is customer follow-up?",
+    "answer": "Customer follow-up ensures satisfaction after service."
+  },
+  {
+    "question": "Why is customer follow-up important?",
+    "answer": "It helps build trust and long-term relationships."
+  },
+  {
+    "question": "How do you manage customer expectations?",
+    "answer": "I provide clear and realistic information."
+  },
+  {
+    "question": "What is service quality?",
+    "answer": "Service quality measures how well customer needs are met."
+  },
+  {
+    "question": "How do you improve service quality?",
+    "answer": "I focus on communication, accuracy, and responsiveness."
+  },
+  {
+    "question": "What is problem-solving?",
+    "answer": "Problem-solving involves identifying and resolving issues effectively."
+  },
+  {
+    "question": "Why is problem-solving important?",
+    "answer": "It helps maintain customer satisfaction and business efficiency."
+  },
+  {
+    "question": "How do you stay organized?",
+    "answer": "I use schedules, records, and task priorities."
+  },
+  {
+    "question": "What is time management?",
+    "answer": "Time management is the effective use of available time."
+  },
+  {
+    "question": "Why is time management important?",
+    "answer": "It improves productivity and reduces delays."
+  },
+  {
+    "question": "How do you manage deadlines?",
+    "answer": "I plan tasks and monitor progress regularly."
+  },
+  {
+    "question": "What is professionalism?",
+    "answer": "Professionalism means behaving responsibly and ethically."
+  },
+  {
+    "question": "Why is integrity important?",
+    "answer": "Integrity builds trust and supports ethical business practices."
+  },
+  {
+    "question": "How do you ensure accuracy?",
+    "answer": "I review records carefully and verify information."
+  },
+  {
+    "question": "What is continuous improvement?",
+    "answer": "Continuous improvement focuses on making processes better over time."
+  },
+  {
+    "question": "Why is learning important in accounting?",
+    "answer": "Accounting standards and business needs continue to evolve."
+  },
+  {
+    "question": "How do you support business growth?",
+    "answer": "I provide accurate financial information and effective controls."
+  },
+  {
+    "question": "What motivates you as an accountant?",
+    "answer": "Helping the business succeed through accurate financial management."
+  },
+  {
+    "question": "What is financial analysis?",
+    "answer": "Financial analysis evaluates business performance using financial data."
+  },
+  {
+    "question": "Why is financial analysis important?",
+    "answer": "It helps management make informed decisions."
+  },
+  {
+    "question": "What is a ratio analysis?",
+    "answer": "Ratio analysis measures financial performance using key ratios."
+  },
+  {
+    "question": "What is liquidity?",
+    "answer": "Liquidity is the ability to meet short-term obligations."
+  },
+  {
+    "question": "What is solvency?",
+    "answer": "Solvency is the ability to meet long-term obligations."
+  },
+  {
+    "question": "What is profitability?",
+    "answer": "Profitability measures the ability to generate profit."
+  },
+  {
+    "question": "What is inventory costing?",
+    "answer": "Inventory costing determines the value of inventory items."
+  },
+  {
+    "question": "Why is inventory costing important?",
+    "answer": "It affects profit calculations and financial reporting."
+  },
+  {
+    "question": "What is stock verification?",
+    "answer": "Stock verification confirms physical inventory matches records."
+  },
+  {
+    "question": "How do you conduct stock verification?",
+    "answer": "I compare physical counts with inventory records."
+  },
+  {
+    "question": "What is cycle counting?",
+    "answer": "Cycle counting is counting selected inventory regularly."
+  },
+  {
+    "question": "Why is cycle counting useful?",
+    "answer": "It improves inventory accuracy throughout the year."
+  },
+  {
+    "question": "What is inventory forecasting?",
+    "answer": "Inventory forecasting predicts future stock requirements."
+  },
+  {
+    "question": "How do you forecast inventory needs?",
+    "answer": "I analyze sales trends and demand patterns."
+  },
+  {
+    "question": "What is customer care?",
+    "answer": "Customer care focuses on helping customers effectively."
+  },
+  {
+    "question": "Why is customer care important?",
+    "answer": "It improves customer satisfaction and loyalty."
+  },
+  {
+    "question": "How do you handle customer complaints professionally?",
+    "answer": "I listen, investigate, and provide appropriate solutions."
+  },
+  {
+    "question": "What is customer communication?",
+    "answer": "Customer communication is the exchange of information with customers."
+  },
+  {
+    "question": "Why is customer communication important?",
+    "answer": "It helps build trust and understanding."
+  },
+  {
+    "question": "How do you maintain positive customer relationships?",
+    "answer": "I provide reliable service and respectful communication."
+  },
+  {
+    "question": "What is service excellence?",
+    "answer": "Service excellence means consistently exceeding customer expectations."
+  },
+  {
+    "question": "Why is service excellence important?",
+    "answer": "It strengthens reputation and customer retention."
+  },
+  {
+    "question": "How do you improve customer experience?",
+    "answer": "I focus on responsiveness, professionalism, and support."
+  },
+  {
+    "question": "What is ethical accounting?",
+    "answer": "Ethical accounting follows honesty, integrity, and professional standards."
+  },
+  {
+    "question": "Why is ethical accounting important?",
+    "answer": "It ensures trust and compliance with regulations."
+  },
+  {
+    "question": "How do you prevent accounting errors?",
+    "answer": "I review records and maintain proper controls."
+  },
+  {
+    "question": "What is document management?",
+    "answer": "Document management organizes and stores business records."
+  },
+  {
+    "question": "Why is document management important?",
+    "answer": "It improves efficiency and supports compliance."
+  },
+  {
+    "question": "How do you manage business records?",
+    "answer": "I maintain organized files and accurate documentation."
+  },
+  {
+    "question": "What is compliance?",
+    "answer": "Compliance means following laws, regulations, and policies."
+  },
+  {
+    "question": "Why is compliance important?",
+    "answer": "It reduces legal and financial risks."
+  },
+  {
+    "question": "What is risk management?",
+    "answer": "Risk management identifies and minimizes business risks."
+  },
+  {
+    "question": "How do you manage financial risks?",
+    "answer": "I monitor transactions and maintain controls."
+  },
+  {
+    "question": "What is operational efficiency?",
+    "answer": "Operational efficiency means using resources effectively."
+  },
+  {
+    "question": "Why is operational efficiency important?",
+    "answer": "It improves productivity and profitability."
+  },
+  {
+    "question": "How do you improve operational efficiency?",
+    "answer": "I streamline processes and eliminate unnecessary work."
+  },
+  {
+    "question": "What is leadership?",
+    "answer": "Leadership involves guiding and supporting others."
+  },
+  {
+    "question": "Why is leadership important in business?",
+    "answer": "It helps teams achieve goals successfully."
+  },
+  {
+    "question": "How do you work with other departments?",
+    "answer": "I communicate regularly and support shared objectives."
+  },
+  {
+    "question": "What is decision-making?",
+    "answer": "Decision-making is selecting the best course of action."
+  },
+  {
+    "question": "Why is decision-making important?",
+    "answer": "Good decisions improve business performance."
+  },
+  {
+    "question": "How do you make informed decisions?",
+    "answer": "I analyze data and consider available information."
+  },
+  {
+    "question": "What is business success?",
+    "answer": "Business success is achieving financial and operational goals."
+  },
+  {
+    "question": "How do accounting records support success?",
+    "answer": "They provide accurate information for planning and control."
+  },
+  {
+    "question": "What is your responsibility as an accountant?",
+    "answer": "My responsibility is to maintain accurate records and support business operations."
+  },
+  {
+    "question": "How do you contribute to inventory management?",
+    "answer": "I track inventory values and monitor stock-related transactions."
+  },
+  {
+    "question": "How do you contribute to customer service?",
+    "answer": "I assist customers professionally and resolve account-related inquiries."
+  },
+  {
+    "question": "What is your greatest professional strength?",
+    "answer": "My greatest strength is accuracy, organization, and attention to detail."
+  },
+  {
+    "question": "What is your professional goal?",
+    "answer": "My goal is to support business growth through effective accounting, inventory management, and customer service."
+  },
+  {
+    "question": "What advice would you give to future accountants?",
+    "answer": "Develop strong analytical skills, integrity, and continuous learning habits."
+  }
+]
